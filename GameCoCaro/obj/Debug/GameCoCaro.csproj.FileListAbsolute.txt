@@ -1,0 +1,20 @@
+C:\Users\tranp\OneDrive\Desktop\Cocaro\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe.config
+C:\Users\tranp\OneDrive\Desktop\Cocaro\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe
+C:\Users\tranp\OneDrive\Desktop\Cocaro\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.pdb
+C:\Users\tranp\OneDrive\Desktop\Cocaro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csprojAssemblyReference.cache
+C:\Users\tranp\OneDrive\Desktop\Cocaro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Form1.resources
+C:\Users\tranp\OneDrive\Desktop\Cocaro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Properties.Resources.resources
+C:\Users\tranp\OneDrive\Desktop\Cocaro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.GenerateResource.cache
+C:\Users\tranp\OneDrive\Desktop\Cocaro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.CoreCompileInputs.cache
+C:\Users\tranp\OneDrive\Desktop\Cocaro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.exe
+C:\Users\tranp\OneDrive\Desktop\Cocaro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.pdb
+D:\HọcKy4\TongHop\Game Caro\Cocaro\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe.config
+D:\HọcKy4\TongHop\Game Caro\Cocaro\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.exe
+D:\HọcKy4\TongHop\Game Caro\Cocaro\GameCoCaro\GameCoCaro\bin\Debug\GameCoCaro.pdb
+D:\HọcKy4\TongHop\Game Caro\Cocaro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csprojAssemblyReference.cache
+D:\HọcKy4\TongHop\Game Caro\Cocaro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Form1.resources
+D:\HọcKy4\TongHop\Game Caro\Cocaro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.Properties.Resources.resources
+D:\HọcKy4\TongHop\Game Caro\Cocaro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.GenerateResource.cache
+D:\HọcKy4\TongHop\Game Caro\Cocaro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.csproj.CoreCompileInputs.cache
+D:\HọcKy4\TongHop\Game Caro\Cocaro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.exe
+D:\HọcKy4\TongHop\Game Caro\Cocaro\GameCoCaro\GameCoCaro\obj\Debug\GameCoCaro.pdb
